@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Volvo VNL 860",
+    "description": "A premium long-haul truck with a spacious sleeper cabin and advanced fuel efficiency.",
+    "image": "https://www.volvotrucks.us/trucks/vnl/vnl-860/vnl-860-gallery/vnl-860-exterior-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Freightliner Cascadia",
+    "description": "The most advanced on-highway truck Freightliner has ever offered. Packed with innovation.",
+    "image": "https://freightliner.com/wp-content/uploads/2023/02/freightliner-cascadia-2023-1-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kenworth T680",
+    "description": "The Kenworth T680 is a class 8 truck that has a reputation for being one of the most fuel-efficient trucks on the road.",
+    "image": "https://kenworth.com/media/52166/t680-coupler-2021.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Peterbilt 579",
+    "description": "The Model 579 has the most advanced technology and a spacious interior that makes it a driver favorite.",
+    "image": "https://www.peterbilt.com/sites/default/files/styles/1440x/public/2021-02/579-gallery-1.jpg?itok=3jYJzZ9c"
+  },
+  {
+    "id": 5,
+    "name": "International LT Series",
+    "description": "Designed with the driver in mind, the LT Series is the most fuel-efficient, and technologically advanced truck we've ever produced.",
+    "image": "https://www.internationaltrucks.com/-/media/project/international-trucks/international-trucks/international-trucks-site/products/trucks/lt-series/gallery/lt-gallery-1.jpg"
+  }
+]
